@@ -4,7 +4,7 @@
 
 B.Tech Computer Science & IT (Cyber Security) @ Symbiosis Skills and Professional University, Pune
 
-### 🚀 [View my full interactive dashboard →](https://mansi422-dot.github.io)
+### 🚀 [View my full interactive dashboard →](https://Mansi422-dot.github.io)
 
 ---
 
