@@ -1,6 +1,6 @@
 # Hi, I'm Mansi 👋
 
-**Cybersecurity Student · VAPT & Bug Bounty Hunter · Full-Stack Developer**
+**Cybersecurity Student · Red Team Recon & Bug Bounty · Blue Team (SOC) Learner · Web Development Learner · TryhackMe Top 1% **
 
 B.Tech Computer Science & IT (Cyber Security) @ Symbiosis Skills and Professional University, Pune
 
@@ -8,8 +8,19 @@ B.Tech Computer Science & IT (Cyber Security) @ Symbiosis Skills and Professiona
 
 ---
 
-### 🏆 Recognized for responsible disclosure by
-CERT-In · SWITCH-CERT · University of Strasbourg · Wageningen University · UC Berkeley · Duke University
+### 🏆 Hall of Fame and Acknowledgements 
+University of Strasbourg · Wageningen University (WUR) · CERT-In · SWITCH-CERT · Duke University · and other organizations for responsible vulnerability disclosure.
+
+### 🔴 Red Team
+Bug bounty hunting · Web security testing · Reconnaissance
+Built a Bash script for automated recon.
+
+### 🔵 Blue Team
+TryHackMe SOC L1 certified — hands-on with SIEM (Splunk) and SOAR concepts through lab work.
+Currently building **AnalystOne**, a SOC project 🚧 *(in progress)*
+
+### 💻 Currently learning
+Python, DSA, and C from the ground up — also revisiting frontend basics and starting backend web dev.
 
 ### 🛠️ Tools I work with
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
@@ -20,6 +31,11 @@ CERT-In · SWITCH-CERT · University of Strasbourg · Wageningen University · U
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+### 🌱 Beyond the code
+🏀 Basketball · 💃 Dancing · 🎨 Painting & drawing · 🏸 Badminton · 🍳 Cooking · ✈️ Travel
+
+I like keeping a balance — always learning something new, always up for exploring.
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/mansi-karpe-8529b0284) · [Email](mailto:karpemansi4@gmail.com)
