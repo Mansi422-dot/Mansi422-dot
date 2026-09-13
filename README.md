@@ -1,6 +1,6 @@
 # Hi, I'm Mansi 👋
 
-###Cybersecurity Student · Red Team Recon & Bug Bounty · Blue Team (SOC) Learner · Web Development Learner · TryhackMe Top 1% 
+### Cybersecurity Student · Red Team Recon & Bug Bounty · Blue Team (SOC) Learner · Web Development Learner · TryhackMe Top 1% 
 
 B.Tech Computer Science & IT (Cyber Security) @ Symbiosis Skills and Professional University, Pune
 
