@@ -52,9 +52,9 @@ $ cat learning.sh
 
 | Port | State | Service | Stack |
 |---|---|---|---|
-| `443/tcp` | 🟢 open | `security-recon` | Nmap, FFUF, Nuclei, Burp Suite |
+| `443/tcp` | 🟢 open | `security-recon` | Bash, Nmap, FFUF, Nuclei, Burp Suite, Wireshark, Metasploit |
 | `80/tcp` | 🟢 open | `web-frontend` | HTML, CSS, JavaScript |
-| `25/tcp` | 🟡 filtered | `soc-fundamentals` | Splunk, SIEM, SOAR |
+| `25/tcp` | 🟡 filtered | `soc-fundamentals` | Splunk, Wazuh, SIEM, SOAR |
 | `22/tcp` | 🟡 filtered | `core-cs` | Python, DSA, C |
 
 </div>
@@ -80,9 +80,8 @@ $ cat learning.sh
 $ cat hall_of_fame.log
 ```
 
-🥇 **University of Strasbourg** — Hall of Fame
-🥇 **Wageningen University (WUR)** — Hall of Fame
-🎖️ Acknowledged by **CERT-In**, **SWITCH-CERT**, **Duke University**, and other organizations for responsible vulnerability disclosure
+
+🎖️ Acknowledged by **University of Strasbourg**, **Wageningen University**, **CERT-In**, **SWITCH-CERT**, **UC Berkeley**, **Duke University** and other organizations for responsible vulnerability disclosure
 
 <br>
 
