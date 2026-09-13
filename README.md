@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0c,100:111814&height=140&section=header&text=Mansi%20Karpe&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=4ade80&desc=Cybersecurity%20Student%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Full-Stack%20Developer&descAlign=50&descAlignY=68&descSize=16&descColor=8ea299&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0c,100:111814&height=140&section=header&text=Mansi%20Karpe&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=4ade80&desc=Cybersecurity%20Student%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20SOC%20Analyst&descAlign=50&descAlignY=68&descSize=16&descColor=8ea299&animation=fadeIn" width="100%"/>
 
 ### 🚀 [**VIEW MY INTERACTIVE DASHBOARD →**](https://mansi422-dot.github.io)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=4ADE80&center=true&vCenter=true&width=650&height=60&lines=%24+whoami;mansi_karpe+%E2%80%94+cybersecurity+student+%26+full-stack+dev;%24+cat+focus.txt;red+team+recon+%2F%2F+blue+team+SOC+%2F%2F+full-stack+web" alt="terminal typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=4ADE80&center=true&vCenter=true&width=650&height=60&lines=%24+whoami;mansi_karpe+%E2%80%94+Cybersecurity+student+%C2%B7+Red+Team+%C2%B7+Blue+Team;%24+cat+focus.txt;Bug+Hunter+%2F%2F+SOC+Analyst" alt="terminal typing animation" />
 
 </div>
 
