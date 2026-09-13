@@ -1,41 +1,109 @@
-# Hi, I'm Mansi 👋
+<div align="center">
 
-### Cybersecurity Student · Red Team Recon & Bug Bounty · Blue Team (SOC) Learner · Web Development Learner · TryhackMe Top 1% 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e0c,100:111814&height=140&section=header&text=Mansi%20Karpe&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=4ade80&desc=Cybersecurity%20Student%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Full-Stack%20Developer&descAlign=50&descAlignY=68&descSize=16&descColor=8ea299&animation=fadeIn" width="100%"/>
 
-B.Tech Computer Science & IT (Cyber Security) @ Symbiosis Skills and Professional University, Pune
+### 🚀 [**VIEW MY INTERACTIVE DASHBOARD →**](https://mansi422-dot.github.io)
 
-### 🚀 [View my full interactive dashboard →](https://Mansi422-dot.github.io)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=4ADE80&center=true&vCenter=true&width=650&height=60&lines=%24+whoami;mansi_karpe+%E2%80%94+cybersecurity+student+%26+full-stack+dev;%24+cat+focus.txt;red+team+recon+%2F%2F+blue+team+SOC+%2F%2F+full-stack+web" alt="terminal typing animation" />
 
----
+</div>
 
-### 🏆 Hall of Fame and Acknowledgements 
-University of Strasbourg · Wageningen University (WUR) · CERT-In · SWITCH-CERT · Duke University · and other organizations for responsible vulnerability disclosure.
+<br>
 
-### 🔴 Red Team
-Bug bounty hunting · Web security testing · Reconnaissance
-Built a Bash script for automated recon.
+```bash
+$ cat about.md
+```
 
-### 🔵 Blue Team
-TryHackMe SOC L1 certified — hands-on with SIEM (Splunk) and SOAR concepts through lab work.
-Currently building **AnalystOne**, a SOC project 🚧 *(in progress)*
+B.Tech Computer Science & IT (Cyber Security) @ Symbiosis Skills and Professional University, Pune.
+Building skills on both sides of the fence — red team reconnaissance & bug bounty hunting, and blue
+team SOC fundamentals through hands-on labs. Currently building **AnalystOne**, a SOC project still
+in progress, while leveling up my programming fundamentals from the ground up.
 
-### 💻 Currently learning
-Python, DSA, and C from the ground up — also revisiting frontend basics and starting backend web dev.
+<br>
 
-### 🛠️ Tools I work with
-![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+```bash
+$ cat red_team.sh
+```
 
-### 🌱 Beyond the code
-🏀 Basketball · 💃 Dancing · 🎨 Painting & drawing · 🏸 Badminton · 🍳 Cooking · ✈️ Travel
+- 🔴 Bug Bounty Hunting · Web Security Testing · Reconnaissance
+- 🔴 Built a Bash script for automated recon (subdomain enum → resolution → port scan → httpx → screenshots)
+- 🔴 Tools: Burp Suite, Nmap, FFUF, Nuclei, Nessus, Hydra, Wireshark, Metasploit
 
-I like keeping a balance — always learning something new, always up for exploring.
+```bash
+$ cat blue_team.sh
+```
 
-### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/mansi-karpe-8529b0284) · [Email](mailto:karpemansi4@gmail.com)
+- 🔵 TryHackMe **SOC L1** certified
+- 🔵 Hands-on with SIEM (Splunk), SOAR concepts, log analysis, and threat detection via lab work
+- 🔵 Currently building **AnalystOne** — a SOC project 🚧 *(in progress)*
+
+```bash
+$ cat learning.sh
+```
+
+- 💻 Python, DSA, and C — starting from the ground up
+- 💻 Revisiting frontend basics (HTML/CSS/JS) and planning to learn backend next
+
+<br>
+
+<div align="center">
+
+### 🏆 nmap -sV skills.local
+
+| Port | State | Service | Stack |
+|---|---|---|---|
+| `443/tcp` | 🟢 open | `security-recon` | Nmap, FFUF, Nuclei, Burp Suite |
+| `80/tcp` | 🟢 open | `web-frontend` | HTML, CSS, JavaScript |
+| `25/tcp` | 🟡 filtered | `soc-fundamentals` | Splunk, SIEM, SOAR |
+| `22/tcp` | 🟡 filtered | `core-cs` | Python, DSA, C |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📡 Live Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mansi422-dot&show_icons=true&theme=transparent&title_color=4ade80&text_color=e9f2ec&icon_color=56d9c7&bg_color=00000000&border_color=233029&hide_border=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi422-dot&layout=compact&theme=transparent&title_color=4ade80&text_color=e9f2ec&bg_color=00000000&border_color=233029&hide_border=false" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi422-dot&theme=dark&hide_border=true&background=00000000&ring=4ade80&fire=f5b942&currStreakLabel=4ade80&sideLabels=8ea299&dates=5a6b63" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mansi422-dot&theme=matrix&no-frame=true&margin-w=8&column=4&row=1" height="110"/>
+
+</div>
+
+<br>
+
+```bash
+$ cat hall_of_fame.log
+```
+
+🥇 **University of Strasbourg** — Hall of Fame
+🥇 **Wageningen University (WUR)** — Hall of Fame
+🎖️ Acknowledged by **CERT-In**, **SWITCH-CERT**, **Duke University**, and other organizations for responsible vulnerability disclosure
+
+<br>
+
+```bash
+$ cat beyond_the_code.sh
+```
+
+🏀 Basketball &nbsp;·&nbsp; 💃 Dancing &nbsp;·&nbsp; 🎨 Painting & Drawing &nbsp;·&nbsp; 🏸 Badminton &nbsp;·&nbsp; 🍳 Cooking &nbsp;·&nbsp; ✈️ Travel
+
+*I believe in keeping a balance — always learning, always exploring.*
+
+<br>
+
+<div align="center">
+
+### 📡 connect --to mansi
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0e0c?style=for-the-badge&logo=linkedin&logoColor=56d9c7)](https://www.linkedin.com/in/mansi-karpe-8529b0284)
+[![Email](https://img.shields.io/badge/-Email-0a0e0c?style=for-the-badge&logo=gmail&logoColor=f5b942)](mailto:karpemansi4@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-0a0e0c?style=for-the-badge&logo=github&logoColor=4ade80)](https://github.com/Mansi422-dot)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111814,100:0a0e0c&height=60&section=footer" width="100%"/>
+
+</div>
